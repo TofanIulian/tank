@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\iulian\desktop\tank\engine\main.cpp
+	<iostream>
+
+1494688315 source:c:\users\iulian\desktop\tank\engine\src\engine.cpp
+	"engine.h"
+
+1494689144 c:\users\iulian\desktop\tank\engine\include\engine.h
+	"unit.h"
+
+1494688351 c:\users\iulian\desktop\tank\engine\include\unit.h
+
+1494688351 source:c:\users\iulian\desktop\tank\engine\src\unit.cpp
+	"unit.h"
+
+1523786633 source:c:\users\iulian\desktop\engine2\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<joctanc.h>
+	<input.h>
+	<output.h>
+	<unistd.h>
+
+1523621819 c:\users\iulian\desktop\engine2\include\input.h
+
+1523653142 c:\users\iulian\desktop\engine2\include\output.h
+	<engine.h>
+	<unistd.h>
+
+1523776882 c:\users\iulian\desktop\engine2\include\engine.h
+	<unit.h>
+
+1523726148 c:\users\iulian\desktop\engine2\include\unit.h
+	<engine.h>
+
+1523650207 c:\users\iulian\desktop\engine2\include\joctanc.h
+	<unit.h>
+	<engine.h>
+
+1523731996 source:c:\users\iulian\desktop\engine2\src\engine.cpp
+	"engine.h"
+	<cstddef>
+
+1523727447 source:c:\users\iulian\desktop\engine2\src\input.cpp
+	"input.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Engine.h"
+	"JocTanc.h"
+
+1523786949 source:c:\users\iulian\desktop\engine2\src\joctanc.cpp
+	"joctanc.h"
+	<unit.h>
+	<engine.h>
+	<cstddef>
+
+1523776857 source:c:\users\iulian\desktop\engine2\src\output.cpp
+	"output.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1523777113 source:c:\users\iulian\desktop\engine2\src\unit.cpp
+	"unit.h"
+	<cstddef>
+
+1523791915 source:c:\users\iulian\desktop\engine\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<joctanc.h>
+	<input.h>
+	<output.h>
+	<unistd.h>
+
+1523790991 c:\users\iulian\desktop\engine\include\joctanc.h
+	<unit.h>
+	<engine.h>
+
+1523790991 c:\users\iulian\desktop\engine\include\unit.h
+	<engine.h>
+
+1523790820 c:\users\iulian\desktop\engine\include\engine.h
+	<unit.h>
+
+1523790820 c:\users\iulian\desktop\engine\include\input.h
+
+1523790991 c:\users\iulian\desktop\engine\include\output.h
+	<engine.h>
+	<unistd.h>
+
+1523731996 source:c:\users\iulian\desktop\engine\src\engine.cpp
+	"engine.h"
+	<cstddef>
+
+1523786949 source:c:\users\iulian\desktop\engine\src\joctanc.cpp
+	"joctanc.h"
+	<unit.h>
+	<engine.h>
+	<cstddef>
+
+1523777113 source:c:\users\iulian\desktop\engine\src\unit.cpp
+	"unit.h"
+	<cstddef>
+
+1523790501 source:c:\users\iulian\desktop\engine\src\input.cpp
+	"input.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Engine.h"
+	"JocTanc.h"
+
+1523790508 source:c:\users\iulian\desktop\engine\src\output.cpp
+	"output.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
